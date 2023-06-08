@@ -131,6 +131,7 @@ const tick = () =>
        mixer.update(deltaTime)
     }
 
+    
     // Render
     renderer.render(scene, camera)
 
